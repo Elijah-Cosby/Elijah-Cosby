@@ -7,9 +7,9 @@
 
   - 👨‍🎓 In my 2rd year studying Mechatronics and Biomedical Engineering at McMaster University
   - 👨‍💻 Founder @ Visualize Assistive Technologies | 🏆 Award-winning tech innovator
-  - 🖥️ C++ & Embedded Systems | ⚡ Interested in Machine Learning
+  - 🤖 C++ & Embedded Systems | 🧠 Machine Learning & AI
   - 💡 Passionate about problem-solving & creative engineering
-  - ✨ Let's build something together!
+  - 🚀 Let's build something together!
 
 
 ## Languages, Frameworks, and Tools
