@@ -1,4 +1,4 @@
-# Hi there 👋  I'm Elijah Cosby, Welcome to my GitHub 👋
+# Hi there 👋  I'm Elijah Cosby, Welcome to my GitHub!
 
 ## 💻 Mechatronics and Biomedical Engineer at McMaster University
 
